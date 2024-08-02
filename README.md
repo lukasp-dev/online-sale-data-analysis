@@ -6,9 +6,10 @@ This project involves comprehensive exploratory data analysis (EDA) on online re
 ## Technology Stack
 - **Programming Language:** Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Data Analysis Libraries:** pandas ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), numpy ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-- **Data Visualization Libraries:** matplotlib ![matplotlib](https://img.shields.io/badge/matplotlib-#ffffff?style=for-the-badge&logo=matplotlib&logoColor=black), seaborn ![seaborn](https://img.shields.io/badge/seaborn-9F2B68?style=for-the-badge&logo=seaborn&logoColor=white)
+- **Data Visualization Libraries:** matplotlib ![matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black), seaborn ![seaborn](https://img.shields.io/badge/seaborn-9F2B68?style=for-the-badge&logo=seaborn&logoColor=white)
 - **Machine Learning Libraries:** scikit-learn ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - **Others:** Jupyter Notebook ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ## Algorithms Used
 - **Data Preprocessing:** Handling missing values, type conversions, and feature engineering.
